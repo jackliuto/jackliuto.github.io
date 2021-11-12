@@ -6,7 +6,8 @@ excerpt: 'This paper is about the number 1. The number 2 is left for future work
 date: 2021-06-20
 venue: 'CVPR 2021 Workshop on Embodied AI'
 paperurl: 'https://embodied-ai.org/papers/A-Neural-Symbolic-Approach-for-Object-Navigation.pdf'
-citation: 
+<!-- citation:  -->
+authors: Xiaotian Liu and Christian Muise
 ---
 <!-- This paper is about the number 1. The number 2 is left for future work. -->
 
