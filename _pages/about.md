@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-I am current an MSc student studying computing at Queen's University, supervised by Dr. Christian Muise. My research interests are Machine Learning, Reinforcement Learning, Automated Planning, Neural Symbolic AI, Partially Observable Planning/RL, Embodied Agent Design ect. My current work involves building a neural symbolic agent that uses Planning as a high-level system to guide low-level tasks learned through deep learning. I am also working as a research intern supervised by Dr. Hector Palacios at ElementAI. Feel free to reach me at xl9 [at] queensu.ca if you want to know more about my work.
+I am current an MSc student studying computing at Queen's University, supervised by Dr. Christian Muise. My research interests are Machine Learning, Reinforcement Learning, Automated Planning, Neural Symbolic AI, Partially Observable Planning/RL, Embodied Agent Design ect. My current work involves building a neural symbolic agent that uses Planning as a high-level system to guide low-level tasks learned through deep learning. I also had expeirence in image segmentation, inforation extraction in NLP and source code translation. Current, I am working as a research intern supervised by Dr. Hector Palacios at ElementAI. Feel free to reach me at xl9 [at] queensu.ca if you want to know more about my work.
 
 <!-- A data-driven personal website
 <!-- ======
