@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: by Xiaotian Liu, Alison Parades and Christian Muise
 date: 2021-08-06
-venue: 'ICAPS 2021 Intex Workshop'
+venue: 'ICAPS 2021 Intex Workshop (working on expansion to full conference submission)'
 paperurl: 'https://icaps21.icaps-conference.org/workshops/IntEx/IntEx2021proceedings_final.pdf'
 <!-- citation:  -->
 ---
