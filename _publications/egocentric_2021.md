@@ -8,7 +8,7 @@ venue: 'ICAPS 2021 Intex Workshop'
 paperurl: 'https://icaps21.icaps-conference.org/workshops/IntEx/IntEx2021proceedings_final.pdf'
 <!-- citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).' -->
 ---
-This paper is about the number 2. The number 3 is left for future work.
+<!-- This paper is about the number 2. The number 3 is left for future work. -->
 
 [Download paper here]( https://jackliuto.github.io/files/Egocentric_Planning.pdf)
 
