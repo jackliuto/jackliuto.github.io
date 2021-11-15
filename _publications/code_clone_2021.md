@@ -3,7 +3,7 @@ title: "HybridCom: A Clone-Aware Hybrid Neural Translation and Information Retri
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: by Xiaotian Liu, Yuan Tian, Haoxiang, Zhang, and Ahmed E. Hassan
-date: 
+date: '2021'
 venue: 'under-submission'
 paperurl: 'https://jackliuto.github.io/files/code_clone.pdf'
 <!-- citation:  -->
