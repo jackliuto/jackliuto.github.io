@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: by Xiaotian Liu, Yuan Tian, Haoxiang, Zhang, and Ahmed E. Hassan
 date: 
-venue: 'under-submission
+venue: 'under-submission'
 paperurl: 'https://jackliuto.github.io/files/code_clone.pdf'
 <!-- citation:  -->
 ---
