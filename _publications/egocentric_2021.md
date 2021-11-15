@@ -6,7 +6,7 @@ excerpt: by Xiaotian Liu, Alison Parades and Christian Muise
 date: 2021-08-06
 venue: 'ICAPS 2021 Intex Workshop'
 paperurl: 'https://icaps21.icaps-conference.org/workshops/IntEx/IntEx2021proceedings_final.pdf'
-<!-- citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).' -->
+<!-- citation:  -->
 ---
 <!-- This paper is about the number 2. The number 3 is left for future work. -->
 
